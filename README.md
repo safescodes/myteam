@@ -1,4 +1,4 @@
-#  ឵ ឵ ឵ ឵ ឵  ឵ ឵ ឵ ឵ ឵  ឵ ឵ ឵ ឵ ឵  ឵ ឵ ឵ ឵ ឵  ឵ ឵ ឵ ឵ ឵  ឵ ឵឵឵឵SAFE CODE 🥵 ( [SafeCode](https://discord.gg/safecode) )
+#  ឵ ឵ ឵ ឵ ឵  ឵ ឵ ឵ ឵ ឵  ឵ ឵ ឵ ឵ ឵  ឵ ឵ ឵ ឵ ឵  ឵ ឵ ឵ ឵ ឵  ឵ ឵឵឵឵SAFE CODE  ( [SafeCode](https://discord.gg/safecode) )
 
 ## ⚝ Kai#0008 -> ([Github](https://github.com/Kai-fx))
             Full Stack Developer ("Azıcık yaşlı") 
