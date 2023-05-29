@@ -27,7 +27,7 @@
 #
 ## rew#1914 -> ([GitHub](https://github.com/rewline))
         Teacher Kai
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/506151528420212739)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/506151528420212739?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/506151528420212739)
 #
 #
 ## !Léxa#7777 -> ([GitHub](https://github.com/Lexaxd))
