@@ -27,6 +27,11 @@
 #
 ## rew#1914 -> ([GitHub](https://github.com/rewline))
         Yeni başlamış
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/506151528420212739?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/506151528420212739)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/506151528420212739)
+#
+#
+## !Léxa#7777 -> ([GitHub](https://github.com/Lexaxd))
+        Yeni başlamış
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/908996863544393739?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/908996863544393739)
 #
 ![image](https://media.discordapp.net/attachments/1111006300244021348/1111361079914795171/image.png?width=1401&height=572)
